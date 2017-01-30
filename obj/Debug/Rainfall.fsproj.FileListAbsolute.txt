@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.XML
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\FSharp.Core.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\FSharp.Core.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\obj\Debug\Rainfall.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\obj\Debug\Rainfall.pdb
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.exe.config
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.XML
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.exe
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\Rainfall.pdb
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\FSharp.Core.dll
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\bin\Debug\FSharp.Core.xml
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\obj\Debug\Rainfall.exe
+C:\Users\AdolfoMoreno\Documents\Visual Studio 2013\Projects\Rainfall\Rainfall\obj\Debug\Rainfall.pdb
